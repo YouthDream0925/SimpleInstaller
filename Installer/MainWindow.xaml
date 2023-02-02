@@ -1,0 +1,19 @@
+﻿<Window x:Class="Installer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Installer"
+        mc:Ignorable="d"
+        Icon="Icon.ico"
+        Title="Installer" MinHeight="400" MaxWidth="510" MinWidth="510" MaxHeight="400" Width="400">
+    <Grid>
+        <Button Content="Install" HorizontalAlignment="Left" Margin="353,327,0,0" VerticalAlignment="Top" Width="60" Height="20"/>
+        <Button Content="Cancel" HorizontalAlignment="Left" Margin="430,327,0,0" VerticalAlignment="Top" Click="Cancel_Click" Width="51" Height="20"/>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="290,327,0,0" VerticalAlignment="Top" Width="60" Height="20" Click="Button_Click_1"/>
+        <Border BorderBrush="Black" BorderThickness="0.3" HorizontalAlignment="Center" Height="316" VerticalAlignment="Top" Width="510">
+            <Image Margin="0,-3,0,-10" Source="images/3.png"/>
+        </Border>
+        <ProgressBar x:Name="progressBar" HorizontalAlignment="Left" Height="16" VerticalAlignment="Top" Width="318" Margin="168,269,0,0"/>
+    </Grid>
+</Window>

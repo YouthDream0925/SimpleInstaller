@@ -1,0 +1,16 @@
+D:\Work\US_JorgeL\Installer\Installer\bin\Debug\Installer.exe.config
+D:\Work\US_JorgeL\Installer\Installer\bin\Debug\Installer.exe
+D:\Work\US_JorgeL\Installer\Installer\bin\Debug\Installer.pdb
+D:\Work\US_JorgeL\Installer\Installer\obj\Debug\Installer.csproj.AssemblyReference.cache
+D:\Work\US_JorgeL\Installer\Installer\obj\Debug\Installer.csproj.SuggestedBindingRedirects.cache
+D:\Work\US_JorgeL\Installer\Installer\obj\Debug\MainWindow.g.cs
+D:\Work\US_JorgeL\Installer\Installer\obj\Debug\App.g.cs
+D:\Work\US_JorgeL\Installer\Installer\obj\Debug\Installer_MarkupCompile.cache
+D:\Work\US_JorgeL\Installer\Installer\obj\Debug\Installer_MarkupCompile.lref
+D:\Work\US_JorgeL\Installer\Installer\obj\Debug\MainWindow.baml
+D:\Work\US_JorgeL\Installer\Installer\obj\Debug\Installer.g.resources
+D:\Work\US_JorgeL\Installer\Installer\obj\Debug\Installer.Properties.Resources.resources
+D:\Work\US_JorgeL\Installer\Installer\obj\Debug\Installer.csproj.GenerateResource.cache
+D:\Work\US_JorgeL\Installer\Installer\obj\Debug\Installer.csproj.CoreCompileInputs.cache
+D:\Work\US_JorgeL\Installer\Installer\obj\Debug\Installer.exe
+D:\Work\US_JorgeL\Installer\Installer\obj\Debug\Installer.pdb
